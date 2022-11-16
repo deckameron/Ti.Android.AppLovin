@@ -45,6 +45,7 @@ public class RewardedProxy extends KrollProxy implements MaxRewardedAdListener {
     {
         rewardedAd = MaxRewardedAd.getInstance( AD_UNIT_ID, getActivity() );
         rewardedAd.setListener( RewardedProxy.this );
+        rewardedAd.loadAd();
     }
 
     @Kroll.method
