@@ -1,0 +1,156 @@
+{
+  "abi": "X86",
+  "info": {
+    "abi": "X86",
+    "bitness": 32,
+    "deprecated": false,
+    "default": true
+  },
+  "cxxBuildFolder": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/.cxx/Release/1n3633y5/x86",
+  "soFolder": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/cxx/Release/1n3633y5/obj/local/x86",
+  "soRepublishFolder": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/ndkBuild/release/obj/local/x86",
+  "abiPlatformVersion": 19,
+  "variant": {
+    "buildSystemArgumentList": [
+      "APP_STL:\u003dc++_shared",
+      "-j10",
+      "--output-sync\u003dnone"
+    ],
+    "cFlagsList": [],
+    "cppFlagsList": [
+      "-std\u003dc++14"
+    ],
+    "variantName": "release",
+    "soFolder": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/cxx/Release/1n3633y5/obj/local",
+    "soRepublishFolder": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/ndkBuild/release/obj/local",
+    "cxxBuildFolder": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/.cxx/Release/1n3633y5",
+    "intermediatesFolder": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/cxx/Release/1n3633y5",
+    "isDebuggableEnabled": false,
+    "validAbiList": [
+      "ARMEABI_V7A",
+      "ARM64_V8A",
+      "X86",
+      "X86_64"
+    ],
+    "buildTargetSet": [],
+    "implicitBuildTargetSet": [],
+    "cmakeSettingsConfiguration": "android-gradle-plugin-predetermined-name",
+    "module": {
+      "cxxFolder": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/.cxx",
+      "intermediatesBaseFolder": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates",
+      "intermediatesFolder": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/cxx",
+      "gradleModulePathName": ":module",
+      "moduleRootFolder": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module",
+      "moduleBuildFile": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build.gradle",
+      "makeFile": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/src/main/jni/Android.mk",
+      "buildSystem": "NDK_BUILD",
+      "ndkFolder": "/Users/douglas/android-sdk-macosx/ndk/21.4.7075529",
+      "ndkVersion": "21.4.7075529",
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultStl": "SYSTEM",
+      "ndkMetaPlatforms": {
+        "min": 16,
+        "max": 30,
+        "aliases": {
+          "20": 19,
+          "25": 24,
+          "J": 16,
+          "J-MR1": 17,
+          "J-MR2": 18,
+          "K": 19,
+          "L": 21,
+          "L-MR1": 22,
+          "M": 23,
+          "N": 24,
+          "N-MR1": 24,
+          "O": 26,
+          "O-MR1": 27,
+          "P": 28,
+          "Q": 29,
+          "R": 30
+        }
+      },
+      "ndkMetaAbiList": [
+        {
+          "abi": "ARMEABI_V7A",
+          "bitness": 32,
+          "deprecated": false,
+          "default": true
+        },
+        {
+          "abi": "ARM64_V8A",
+          "bitness": 64,
+          "deprecated": false,
+          "default": true
+        },
+        {
+          "abi": "X86",
+          "bitness": 32,
+          "deprecated": false,
+          "default": true
+        },
+        {
+          "abi": "X86_64",
+          "bitness": 64,
+          "deprecated": false,
+          "default": true
+        }
+      ],
+      "cmakeToolchainFile": "/Users/douglas/android-sdk-macosx/ndk/21.4.7075529/build/cmake/android.toolchain.cmake",
+      "stlSharedObjectMap": {
+        "LIBCXX_SHARED": {
+          "ARMEABI_V7A": "/Users/douglas/android-sdk-macosx/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/lib/arm-linux-androideabi/libc++_shared.so",
+          "ARM64_V8A": "/Users/douglas/android-sdk-macosx/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/lib/aarch64-linux-android/libc++_shared.so",
+          "X86": "/Users/douglas/android-sdk-macosx/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/lib/i686-linux-android/libc++_shared.so",
+          "X86_64": "/Users/douglas/android-sdk-macosx/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/lib/x86_64-linux-android/libc++_shared.so"
+        },
+        "LIBCXX_STATIC": {},
+        "NONE": {},
+        "SYSTEM": {}
+      },
+      "project": {
+        "rootBuildGradleFolder": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build",
+        "sdkFolder": "/Users/douglas/android-sdk-macosx",
+        "isBuildOnlyTargetAbiEnabled": true,
+        "isCmakeBuildCohabitationEnabled": false,
+        "isPrefabEnabled": false
+      },
+      "nativeBuildOutputLevel": "QUIET"
+    },
+    "prefabClassPathFileCollection": [],
+    "prefabPackageDirectoryListFileCollection": [],
+    "stlType": "system",
+    "optimizationTag": "Release"
+  },
+  "buildSettings": {
+    "environmentVariables": []
+  },
+  "prefabFolder": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/.cxx/Release/1n3633y5/prefab/x86",
+  "isActiveAbi": true,
+  "fullConfigurationHash": "1n3633y5e4y6d1k4c91e5k144v5w335i10422o5h503q58651j6v3m6w652153",
+  "configurationArguments": [
+    "NDK_PROJECT_PATH\u003dnull",
+    "APP_BUILD_SCRIPT\u003d/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/src/main/jni/Android.mk",
+    "APP_ABI\u003dx86",
+    "NDK_ALL_ABIS\u003dx86",
+    "NDK_DEBUG\u003d0",
+    "APP_PLATFORM\u003dandroid-19",
+    "NDK_OUT\u003d/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/cxx/Release/1n3633y5/obj",
+    "NDK_LIBS_OUT\u003d/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/cxx/Release/1n3633y5/lib",
+    "APP_CPPFLAGS+\u003d-std\u003dc++14",
+    "APP_STL:\u003dc++_shared",
+    "-j10",
+    "--output-sync\u003dnone"
+  ]
+}

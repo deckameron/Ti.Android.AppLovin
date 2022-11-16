@@ -1,0 +1,35 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    xmlns:tools="http://schemas.android.com/tools"
+4    package="com.upflix.applovin" >
+5
+6    <uses-sdk
+7        android:minSdkVersion="19"
+7-->/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/src/main/AndroidManifest.xml
+8        android:targetSdkVersion="31" />
+8-->/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/src/main/AndroidManifest.xml
+9
+10    <uses-permission android:name="android.permission.INTERNET" />
+10-->/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/src/main/AndroidManifest.xml:6:13-74
+10-->/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/src/main/AndroidManifest.xml:6:30-72
+11    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+11-->/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/src/main/AndroidManifest.xml:7:13-86
+11-->/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/src/main/AndroidManifest.xml:7:30-84
+12    <uses-permission android:name="android.permission.BLUETOOTH" />
+12-->/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/src/main/AndroidManifest.xml:8:13-75
+12-->/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/src/main/AndroidManifest.xml:8:30-73
+13    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+13-->/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/src/main/AndroidManifest.xml:9:13-86
+13-->/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/src/main/AndroidManifest.xml:9:30-84
+14
+15    <application>
+15-->/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/src/main/AndroidManifest.xml:3:13-5:27
+16        <meta-data
+16-->/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/src/main/AndroidManifest.xml:4:17-95
+17            android:name="applovin.sdk.key"
+17-->/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/src/main/AndroidManifest.xml:4:28-59
+18            android:value="YOUR_SDK_KEY_HERE" />
+18-->/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/src/main/AndroidManifest.xml:4:60-93
+19    </application>
+20
+21</manifest>

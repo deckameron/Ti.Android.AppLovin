@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/layout-v26/mtrl_calendar_month.xml",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/ecb44e9db50331d7f619fbb742715a36/transformed/material-1.4.0/res/layout-v26/mtrl_calendar_month.xml"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/layout-v26/abc_screen_toolbar.xml",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/2c6f62d21dc441aa2a2c084eb539ac0d/transformed/appcompat-1.3.1/res/layout-v26/abc_screen_toolbar.xml"
+    }
+]

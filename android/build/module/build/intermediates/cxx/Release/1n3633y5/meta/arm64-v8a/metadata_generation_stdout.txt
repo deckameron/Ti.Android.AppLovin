@@ -1,0 +1,14 @@
+Android NDK: WARNING:/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/src/main/jni/Android.mk:com.upflix.applovin: non-system libraries in linker flags: -lkroll-v8    
+Android NDK:     This is likely to result in incorrect builds. Try using LOCAL_STATIC_LIBRARIES    
+Android NDK:     or LOCAL_SHARED_LIBRARIES instead to list the library dependencies of the    
+Android NDK:     current module    
+rm -f /Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/cxx/Release/1n3633y5/lib/arm64-v8a/*
+rm -f /Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/cxx/Release/1n3633y5/lib/arm64-v8a/gdbserver
+rm -f /Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/cxx/Release/1n3633y5/lib/arm64-v8a/gdb.setup
+mkdir -p /Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/cxx/Release/1n3633y5/obj/local/arm64-v8a
+echo [arm64-v8a] "SharedLibrary  ": "libcom.upflix.applovin.so"
+/Users/douglas/android-sdk-macosx/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ -Wl,-soname,libcom.upflix.applovin.so -shared -lgcc -Wl,--exclude-libs,libgcc.a -Wl,--exclude-libs,libgcc_real.a -latomic -Wl,--exclude-libs,libatomic.a -target aarch64-none-linux-android21 -no-canonical-prefixes    -Wl,--build-id   -nostdlib++ -Wl,--no-undefined -Wl,--fatal-warnings -L/usr/lib -ldl -llog -L/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/cxx/Release/1n3633y5/obj/local/arm64-v8a "-L/Users/douglas/Library/Application Support/Titanium/mobilesdk/osx/10.1.1.GA/android/native/libs/arm64-v8a" -lkroll-v8 -lc -lm -o /Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/cxx/Release/1n3633y5/obj/local/arm64-v8a/libcom.upflix.applovin.so
+mkdir -p /Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/cxx/Release/1n3633y5/lib/arm64-v8a
+echo [arm64-v8a] "Install        ": "libcom.upflix.applovin.so => /Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/cxx/Release/1n3633y5/lib/arm64-v8a/libcom.upflix.applovin.so"
+install -p /Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/cxx/Release/1n3633y5/obj/local/arm64-v8a/libcom.upflix.applovin.so /Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/cxx/Release/1n3633y5/lib/arm64-v8a/libcom.upflix.applovin.so
+/Users/douglas/android-sdk-macosx/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/aarch64-linux-android-strip --strip-unneeded  /Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/cxx/Release/1n3633y5/lib/arm64-v8a/libcom.upflix.applovin.so

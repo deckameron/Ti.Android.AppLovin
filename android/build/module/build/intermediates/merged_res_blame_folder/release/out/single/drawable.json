@@ -1,0 +1,594 @@
+[
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/applovin_ic_mediation_verizon.png",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/b3d5fd8caadb009f93648ad90fc4680e/transformed/applovin-sdk-11.5.5/res/drawable/applovin_ic_mediation_verizon.png"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/2c6f62d21dc441aa2a2c084eb539ac0d/transformed/appcompat-1.3.1/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/abc_ic_go_search_api_material.xml",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/2c6f62d21dc441aa2a2c084eb539ac0d/transformed/appcompat-1.3.1/res/drawable/abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/abc_tab_indicator_material.xml",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/2c6f62d21dc441aa2a2c084eb539ac0d/transformed/appcompat-1.3.1/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/material_ic_menu_arrow_down_black_24dp.xml",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/ecb44e9db50331d7f619fbb742715a36/transformed/material-1.4.0/res/drawable/material_ic_menu_arrow_down_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/material_ic_keyboard_arrow_left_black_24dp.xml",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/ecb44e9db50331d7f619fbb742715a36/transformed/material-1.4.0/res/drawable/material_ic_keyboard_arrow_left_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/design_ic_visibility.xml",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/ecb44e9db50331d7f619fbb742715a36/transformed/material-1.4.0/res/drawable/design_ic_visibility.xml"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/abc_item_background_holo_light.xml",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/2c6f62d21dc441aa2a2c084eb539ac0d/transformed/appcompat-1.3.1/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/titanium_icon_disclosure.xml",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/d6cf1c96671c919cf125787b7435c1b6/transformed/titanium-10.1.1/res/drawable/titanium_icon_disclosure.xml"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/btn_checkbox_checked_to_unchecked_mtrl_animation.xml",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/2c6f62d21dc441aa2a2c084eb539ac0d/transformed/appcompat-1.3.1/res/drawable/btn_checkbox_checked_to_unchecked_mtrl_animation.xml"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/abc_ic_search_api_material.xml",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/2c6f62d21dc441aa2a2c084eb539ac0d/transformed/appcompat-1.3.1/res/drawable/abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/titanium_icon_checkmark.xml",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/d6cf1c96671c919cf125787b7435c1b6/transformed/titanium-10.1.1/res/drawable/titanium_icon_checkmark.xml"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/applovin_ic_mediation_line.png",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/b3d5fd8caadb009f93648ad90fc4680e/transformed/applovin-sdk-11.5.5/res/drawable/applovin_ic_mediation_line.png"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/applovin_ic_mediation_admob.png",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/b3d5fd8caadb009f93648ad90fc4680e/transformed/applovin-sdk-11.5.5/res/drawable/applovin_ic_mediation_admob.png"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/applovin_rounded_button.xml",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/b3d5fd8caadb009f93648ad90fc4680e/transformed/applovin-sdk-11.5.5/res/drawable/applovin_rounded_button.xml"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/applovin_ic_mediation_tapjoy.png",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/b3d5fd8caadb009f93648ad90fc4680e/transformed/applovin-sdk-11.5.5/res/drawable/applovin_ic_mediation_tapjoy.png"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/ic_mtrl_chip_checked_black.xml",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/ecb44e9db50331d7f619fbb742715a36/transformed/material-1.4.0/res/drawable/ic_mtrl_chip_checked_black.xml"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/abc_ic_voice_search_api_material.xml",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/2c6f62d21dc441aa2a2c084eb539ac0d/transformed/appcompat-1.3.1/res/drawable/abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/abc_switch_thumb_material.xml",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/2c6f62d21dc441aa2a2c084eb539ac0d/transformed/appcompat-1.3.1/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/titanium_fastscroll_line_drawable.xml",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/d6cf1c96671c919cf125787b7435c1b6/transformed/titanium-10.1.1/res/drawable/titanium_fastscroll_line_drawable.xml"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/applovin_ic_privacy_icon_layered_list.xml",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/b3d5fd8caadb009f93648ad90fc4680e/transformed/applovin-sdk-11.5.5/res/drawable/applovin_ic_privacy_icon_layered_list.xml"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/abc_btn_borderless_material.xml",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/2c6f62d21dc441aa2a2c084eb539ac0d/transformed/appcompat-1.3.1/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/abc_ic_menu_copy_mtrl_am_alpha.xml",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/2c6f62d21dc441aa2a2c084eb539ac0d/transformed/appcompat-1.3.1/res/drawable/abc_ic_menu_copy_mtrl_am_alpha.xml"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/2c6f62d21dc441aa2a2c084eb539ac0d/transformed/appcompat-1.3.1/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/design_fab_background.xml",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/ecb44e9db50331d7f619fbb742715a36/transformed/material-1.4.0/res/drawable/design_fab_background.xml"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/notification_icon_background.xml",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/f6908b4b144fe03fb43a865b8cc71333/transformed/core-1.6.0/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/avd_show_password.xml",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/ecb44e9db50331d7f619fbb742715a36/transformed/material-1.4.0/res/drawable/avd_show_password.xml"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/applovin_exo_rounded_rectangle.xml",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/b3d5fd8caadb009f93648ad90fc4680e/transformed/applovin-sdk-11.5.5/res/drawable/applovin_exo_rounded_rectangle.xml"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/applovin_ic_mediation_facebook.png",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/b3d5fd8caadb009f93648ad90fc4680e/transformed/applovin-sdk-11.5.5/res/drawable/applovin_ic_mediation_facebook.png"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/material_ic_menu_arrow_up_black_24dp.xml",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/ecb44e9db50331d7f619fbb742715a36/transformed/material-1.4.0/res/drawable/material_ic_menu_arrow_up_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/applovin_ic_mediation_chartboost.png",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/b3d5fd8caadb009f93648ad90fc4680e/transformed/applovin-sdk-11.5.5/res/drawable/applovin_ic_mediation_chartboost.png"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/mtrl_tabs_default_indicator.xml",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/ecb44e9db50331d7f619fbb742715a36/transformed/material-1.4.0/res/drawable/mtrl_tabs_default_indicator.xml"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/ic_mtrl_chip_close_circle.xml",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/ecb44e9db50331d7f619fbb742715a36/transformed/material-1.4.0/res/drawable/ic_mtrl_chip_close_circle.xml"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/ic_mtrl_checked_circle.xml",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/ecb44e9db50331d7f619fbb742715a36/transformed/material-1.4.0/res/drawable/ic_mtrl_checked_circle.xml"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/applovin_ic_mediation_bidmachine.png",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/b3d5fd8caadb009f93648ad90fc4680e/transformed/applovin-sdk-11.5.5/res/drawable/applovin_ic_mediation_bidmachine.png"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/abc_ic_menu_selectall_mtrl_alpha.xml",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/2c6f62d21dc441aa2a2c084eb539ac0d/transformed/appcompat-1.3.1/res/drawable/abc_ic_menu_selectall_mtrl_alpha.xml"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/applovin_ic_mediation_pangle.png",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/b3d5fd8caadb009f93648ad90fc4680e/transformed/applovin-sdk-11.5.5/res/drawable/applovin_ic_mediation_pangle.png"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/abc_ratingbar_small_material.xml",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/2c6f62d21dc441aa2a2c084eb539ac0d/transformed/appcompat-1.3.1/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/material_cursor_drawable.xml",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/ecb44e9db50331d7f619fbb742715a36/transformed/material-1.4.0/res/drawable/material_cursor_drawable.xml"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/tooltip_frame_light.xml",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/2c6f62d21dc441aa2a2c084eb539ac0d/transformed/appcompat-1.3.1/res/drawable/tooltip_frame_light.xml"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/applovin_ic_mediation_google_ad_manager.png",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/b3d5fd8caadb009f93648ad90fc4680e/transformed/applovin-sdk-11.5.5/res/drawable/applovin_ic_mediation_google_ad_manager.png"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/design_ic_visibility_off.xml",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/ecb44e9db50331d7f619fbb742715a36/transformed/material-1.4.0/res/drawable/design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/2c6f62d21dc441aa2a2c084eb539ac0d/transformed/appcompat-1.3.1/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/test_custom_background.xml",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/ecb44e9db50331d7f619fbb742715a36/transformed/material-1.4.0/res/drawable/test_custom_background.xml"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/material_ic_edit_black_24dp.xml",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/ecb44e9db50331d7f619fbb742715a36/transformed/material-1.4.0/res/drawable/material_ic_edit_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/mtrl_navigation_bar_item_background.xml",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/ecb44e9db50331d7f619fbb742715a36/transformed/material-1.4.0/res/drawable/mtrl_navigation_bar_item_background.xml"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/mtrl_ic_cancel.xml",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/ecb44e9db50331d7f619fbb742715a36/transformed/material-1.4.0/res/drawable/mtrl_ic_cancel.xml"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/material_ic_calendar_black_24dp.xml",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/ecb44e9db50331d7f619fbb742715a36/transformed/material-1.4.0/res/drawable/material_ic_calendar_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/applovin_ic_mediation_criteo.png",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/b3d5fd8caadb009f93648ad90fc4680e/transformed/applovin-sdk-11.5.5/res/drawable/applovin_ic_mediation_criteo.png"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/mtrl_dialog_background.xml",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/ecb44e9db50331d7f619fbb742715a36/transformed/material-1.4.0/res/drawable/mtrl_dialog_background.xml"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/applovin_ic_mediation_placeholder.xml",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/b3d5fd8caadb009f93648ad90fc4680e/transformed/applovin-sdk-11.5.5/res/drawable/applovin_ic_mediation_placeholder.xml"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/2c6f62d21dc441aa2a2c084eb539ac0d/transformed/appcompat-1.3.1/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/material_ic_keyboard_arrow_right_black_24dp.xml",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/ecb44e9db50331d7f619fbb742715a36/transformed/material-1.4.0/res/drawable/material_ic_keyboard_arrow_right_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/mtrl_popupmenu_background.xml",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/ecb44e9db50331d7f619fbb742715a36/transformed/material-1.4.0/res/drawable/mtrl_popupmenu_background.xml"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/abc_btn_colored_material.xml",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/2c6f62d21dc441aa2a2c084eb539ac0d/transformed/appcompat-1.3.1/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/abc_seekbar_tick_mark_material.xml",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/2c6f62d21dc441aa2a2c084eb539ac0d/transformed/appcompat-1.3.1/res/drawable/abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/applovin_ic_mediation_smaato.png",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/b3d5fd8caadb009f93648ad90fc4680e/transformed/applovin-sdk-11.5.5/res/drawable/applovin_ic_mediation_smaato.png"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/mtrl_ic_arrow_drop_down.xml",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/ecb44e9db50331d7f619fbb742715a36/transformed/material-1.4.0/res/drawable/mtrl_ic_arrow_drop_down.xml"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/titanium_splash_icon_background.xml",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/d6cf1c96671c919cf125787b7435c1b6/transformed/titanium-10.1.1/res/drawable/titanium_splash_icon_background.xml"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/applovin_ic_mediation_adcolony.png",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/b3d5fd8caadb009f93648ad90fc4680e/transformed/applovin-sdk-11.5.5/res/drawable/applovin_ic_mediation_adcolony.png"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/applovin_ic_privacy_icon.png",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/b3d5fd8caadb009f93648ad90fc4680e/transformed/applovin-sdk-11.5.5/res/drawable/applovin_ic_privacy_icon.png"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/titanium_fastscroll_thumb.xml",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/d6cf1c96671c919cf125787b7435c1b6/transformed/titanium-10.1.1/res/drawable/titanium_fastscroll_thumb.xml"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/abc_seekbar_track_material.xml",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/2c6f62d21dc441aa2a2c084eb539ac0d/transformed/appcompat-1.3.1/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/2c6f62d21dc441aa2a2c084eb539ac0d/transformed/appcompat-1.3.1/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/applovin_ic_mediation_verve.png",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/b3d5fd8caadb009f93648ad90fc4680e/transformed/applovin-sdk-11.5.5/res/drawable/applovin_ic_mediation_verve.png"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/applovin_ic_mediation_tiktok.png",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/b3d5fd8caadb009f93648ad90fc4680e/transformed/applovin-sdk-11.5.5/res/drawable/applovin_ic_mediation_tiktok.png"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/abc_text_cursor_material.xml",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/2c6f62d21dc441aa2a2c084eb539ac0d/transformed/appcompat-1.3.1/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/design_snackbar_background.xml",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/ecb44e9db50331d7f619fbb742715a36/transformed/material-1.4.0/res/drawable/design_snackbar_background.xml"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/ic_clock_black_24dp.xml",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/ecb44e9db50331d7f619fbb742715a36/transformed/material-1.4.0/res/drawable/ic_clock_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/mtrl_ic_arrow_drop_up.xml",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/ecb44e9db50331d7f619fbb742715a36/transformed/material-1.4.0/res/drawable/mtrl_ic_arrow_drop_up.xml"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/titanium_icon_checkcircle.xml",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/d6cf1c96671c919cf125787b7435c1b6/transformed/titanium-10.1.1/res/drawable/titanium_icon_checkcircle.xml"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/btn_radio_on_to_off_mtrl_animation.xml",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/2c6f62d21dc441aa2a2c084eb539ac0d/transformed/appcompat-1.3.1/res/drawable/btn_radio_on_to_off_mtrl_animation.xml"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/abc_edit_text_material.xml",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/2c6f62d21dc441aa2a2c084eb539ac0d/transformed/appcompat-1.3.1/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/applovin_rounded_text_view_border.xml",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/b3d5fd8caadb009f93648ad90fc4680e/transformed/applovin-sdk-11.5.5/res/drawable/applovin_rounded_text_view_border.xml"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/btn_checkbox_checked_mtrl.xml",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/2c6f62d21dc441aa2a2c084eb539ac0d/transformed/appcompat-1.3.1/res/drawable/btn_checkbox_checked_mtrl.xml"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/btn_checkbox_unchecked_to_checked_mtrl_animation.xml",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/2c6f62d21dc441aa2a2c084eb539ac0d/transformed/appcompat-1.3.1/res/drawable/btn_checkbox_unchecked_to_checked_mtrl_animation.xml"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/ic_keyboard_black_24dp.xml",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/ecb44e9db50331d7f619fbb742715a36/transformed/material-1.4.0/res/drawable/ic_keyboard_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/applovin_ic_mediation_inmobi.png",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/b3d5fd8caadb009f93648ad90fc4680e/transformed/applovin-sdk-11.5.5/res/drawable/applovin_ic_mediation_inmobi.png"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/abc_btn_radio_material_anim.xml",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/2c6f62d21dc441aa2a2c084eb539ac0d/transformed/appcompat-1.3.1/res/drawable/abc_btn_radio_material_anim.xml"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/mtrl_popupmenu_background_dark.xml",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/ecb44e9db50331d7f619fbb742715a36/transformed/material-1.4.0/res/drawable/mtrl_popupmenu_background_dark.xml"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/applovin_ic_mediation_yandex.png",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/b3d5fd8caadb009f93648ad90fc4680e/transformed/applovin-sdk-11.5.5/res/drawable/applovin_ic_mediation_yandex.png"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/applovin_ic_unmute_to_mute.xml",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/b3d5fd8caadb009f93648ad90fc4680e/transformed/applovin-sdk-11.5.5/res/drawable/applovin_ic_unmute_to_mute.xml"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/abc_ic_menu_share_mtrl_alpha.xml",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/2c6f62d21dc441aa2a2c084eb539ac0d/transformed/appcompat-1.3.1/res/drawable/abc_ic_menu_share_mtrl_alpha.xml"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/abc_btn_radio_material.xml",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/2c6f62d21dc441aa2a2c084eb539ac0d/transformed/appcompat-1.3.1/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/applovin_ic_mediation_amazon_marketplace.png",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/b3d5fd8caadb009f93648ad90fc4680e/transformed/applovin-sdk-11.5.5/res/drawable/applovin_ic_mediation_amazon_marketplace.png"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/applovin_ic_mediation_mobilefuse.png",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/b3d5fd8caadb009f93648ad90fc4680e/transformed/applovin-sdk-11.5.5/res/drawable/applovin_ic_mediation_mobilefuse.png"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/2c6f62d21dc441aa2a2c084eb539ac0d/transformed/appcompat-1.3.1/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/btn_radio_off_mtrl.xml",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/2c6f62d21dc441aa2a2c084eb539ac0d/transformed/appcompat-1.3.1/res/drawable/btn_radio_off_mtrl.xml"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/applovin_ic_mute_to_unmute.xml",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/b3d5fd8caadb009f93648ad90fc4680e/transformed/applovin-sdk-11.5.5/res/drawable/applovin_ic_mute_to_unmute.xml"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/titanium_fastscroll_line.xml",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/d6cf1c96671c919cf125787b7435c1b6/transformed/titanium-10.1.1/res/drawable/titanium_fastscroll_line.xml"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/abc_ratingbar_material.xml",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/2c6f62d21dc441aa2a2c084eb539ac0d/transformed/appcompat-1.3.1/res/drawable/abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/btn_radio_off_to_on_mtrl_animation.xml",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/2c6f62d21dc441aa2a2c084eb539ac0d/transformed/appcompat-1.3.1/res/drawable/btn_radio_off_to_on_mtrl_animation.xml"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/titanium_icon_delete.xml",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/d6cf1c96671c919cf125787b7435c1b6/transformed/titanium-10.1.1/res/drawable/titanium_icon_delete.xml"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/tooltip_frame_dark.xml",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/2c6f62d21dc441aa2a2c084eb539ac0d/transformed/appcompat-1.3.1/res/drawable/tooltip_frame_dark.xml"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/applovin_ic_mediation_mintegral.png",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/b3d5fd8caadb009f93648ad90fc4680e/transformed/applovin-sdk-11.5.5/res/drawable/applovin_ic_mediation_mintegral.png"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/titanium_icon_drag.xml",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/d6cf1c96671c919cf125787b7435c1b6/transformed/titanium-10.1.1/res/drawable/titanium_icon_drag.xml"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/abc_list_selector_holo_light.xml",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/2c6f62d21dc441aa2a2c084eb539ac0d/transformed/appcompat-1.3.1/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/design_password_eye.xml",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/ecb44e9db50331d7f619fbb742715a36/transformed/material-1.4.0/res/drawable/design_password_eye.xml"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/applovin_ic_mediation_snap.png",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/b3d5fd8caadb009f93648ad90fc4680e/transformed/applovin-sdk-11.5.5/res/drawable/applovin_ic_mediation_snap.png"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/mtrl_ic_error.xml",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/ecb44e9db50331d7f619fbb742715a36/transformed/material-1.4.0/res/drawable/mtrl_ic_error.xml"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/btn_radio_on_mtrl.xml",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/2c6f62d21dc441aa2a2c084eb539ac0d/transformed/appcompat-1.3.1/res/drawable/btn_radio_on_mtrl.xml"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/abc_list_divider_material.xml",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/2c6f62d21dc441aa2a2c084eb539ac0d/transformed/appcompat-1.3.1/res/drawable/abc_list_divider_material.xml"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/applovin_ic_mediation_nend.png",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/b3d5fd8caadb009f93648ad90fc4680e/transformed/applovin-sdk-11.5.5/res/drawable/applovin_ic_mediation_nend.png"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/abc_vector_test.xml",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/5d4d714ec0e3520b9222bf83d0271895/transformed/appcompat-resources-1.3.1/res/drawable/abc_vector_test.xml"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/abc_cab_background_top_material.xml",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/2c6f62d21dc441aa2a2c084eb539ac0d/transformed/appcompat-1.3.1/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/2c6f62d21dc441aa2a2c084eb539ac0d/transformed/appcompat-1.3.1/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/abc_textfield_search_material.xml",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/2c6f62d21dc441aa2a2c084eb539ac0d/transformed/appcompat-1.3.1/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/abc_star_black_48dp.xml",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/2c6f62d21dc441aa2a2c084eb539ac0d/transformed/appcompat-1.3.1/res/drawable/abc_star_black_48dp.xml"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/applovin_ic_white_small.png",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/b3d5fd8caadb009f93648ad90fc4680e/transformed/applovin-sdk-11.5.5/res/drawable/applovin_ic_white_small.png"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/titanium_icon_circle.xml",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/d6cf1c96671c919cf125787b7435c1b6/transformed/titanium-10.1.1/res/drawable/titanium_icon_circle.xml"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/abc_ic_ab_back_material.xml",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/2c6f62d21dc441aa2a2c084eb539ac0d/transformed/appcompat-1.3.1/res/drawable/abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/abc_dialog_material_background.xml",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/2c6f62d21dc441aa2a2c084eb539ac0d/transformed/appcompat-1.3.1/res/drawable/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/titanium_fastscroll_thumb_drawable.xml",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/d6cf1c96671c919cf125787b7435c1b6/transformed/titanium-10.1.1/res/drawable/titanium_fastscroll_thumb_drawable.xml"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/abc_ic_menu_paste_mtrl_am_alpha.xml",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/2c6f62d21dc441aa2a2c084eb539ac0d/transformed/appcompat-1.3.1/res/drawable/abc_ic_menu_paste_mtrl_am_alpha.xml"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/applovin_ic_mediation_vungle.png",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/b3d5fd8caadb009f93648ad90fc4680e/transformed/applovin-sdk-11.5.5/res/drawable/applovin_ic_mediation_vungle.png"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/titanium_icon_more.xml",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/d6cf1c96671c919cf125787b7435c1b6/transformed/titanium-10.1.1/res/drawable/titanium_icon_more.xml"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/avd_hide_password.xml",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/ecb44e9db50331d7f619fbb742715a36/transformed/material-1.4.0/res/drawable/avd_hide_password.xml"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/notification_bg.xml",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/f6908b4b144fe03fb43a865b8cc71333/transformed/core-1.6.0/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/applovin_ic_mediation_fyber.png",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/b3d5fd8caadb009f93648ad90fc4680e/transformed/applovin-sdk-11.5.5/res/drawable/applovin_ic_mediation_fyber.png"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/notification_bg_low.xml",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/f6908b4b144fe03fb43a865b8cc71333/transformed/core-1.6.0/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/applovin_exo_icon_vr.png",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/b3d5fd8caadb009f93648ad90fc4680e/transformed/applovin-sdk-11.5.5/res/drawable/applovin_exo_icon_vr.png"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/applovin_ic_mediation_unity.png",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/b3d5fd8caadb009f93648ad90fc4680e/transformed/applovin-sdk-11.5.5/res/drawable/applovin_ic_mediation_unity.png"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/2c6f62d21dc441aa2a2c084eb539ac0d/transformed/appcompat-1.3.1/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/abc_ic_menu_cut_mtrl_alpha.xml",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/2c6f62d21dc441aa2a2c084eb539ac0d/transformed/appcompat-1.3.1/res/drawable/abc_ic_menu_cut_mtrl_alpha.xml"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/applovin_ic_mediation_ironsource.png",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/b3d5fd8caadb009f93648ad90fc4680e/transformed/applovin-sdk-11.5.5/res/drawable/applovin_ic_mediation_ironsource.png"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/titanium_icon_splash_empty.png",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/d6cf1c96671c919cf125787b7435c1b6/transformed/titanium-10.1.1/res/drawable/titanium_icon_splash_empty.png"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/abc_ic_clear_material.xml",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/2c6f62d21dc441aa2a2c084eb539ac0d/transformed/appcompat-1.3.1/res/drawable/abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/abc_ic_menu_overflow_material.xml",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/2c6f62d21dc441aa2a2c084eb539ac0d/transformed/appcompat-1.3.1/res/drawable/abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/mtrl_dropdown_arrow.xml",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/ecb44e9db50331d7f619fbb742715a36/transformed/material-1.4.0/res/drawable/mtrl_dropdown_arrow.xml"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/ic_mtrl_chip_checked_circle.xml",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/ecb44e9db50331d7f619fbb742715a36/transformed/material-1.4.0/res/drawable/ic_mtrl_chip_checked_circle.xml"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/applovin_ic_mediation_applovin.png",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/b3d5fd8caadb009f93648ad90fc4680e/transformed/applovin-sdk-11.5.5/res/drawable/applovin_ic_mediation_applovin.png"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/applovin_exo_icon_circular_play.png",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/b3d5fd8caadb009f93648ad90fc4680e/transformed/applovin-sdk-11.5.5/res/drawable/applovin_exo_icon_circular_play.png"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/abc_btn_check_material_anim.xml",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/2c6f62d21dc441aa2a2c084eb539ac0d/transformed/appcompat-1.3.1/res/drawable/abc_btn_check_material_anim.xml"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/applovin_ic_mediation_maio.png",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/b3d5fd8caadb009f93648ad90fc4680e/transformed/applovin-sdk-11.5.5/res/drawable/applovin_ic_mediation_maio.png"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/2c6f62d21dc441aa2a2c084eb539ac0d/transformed/appcompat-1.3.1/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/applovin_ic_mediation_mopub.png",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/b3d5fd8caadb009f93648ad90fc4680e/transformed/applovin-sdk-11.5.5/res/drawable/applovin_ic_mediation_mopub.png"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/material_ic_clear_black_24dp.xml",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/ecb44e9db50331d7f619fbb742715a36/transformed/material-1.4.0/res/drawable/material_ic_clear_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/applovin_ic_mediation_amazon_tam.png",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/b3d5fd8caadb009f93648ad90fc4680e/transformed/applovin-sdk-11.5.5/res/drawable/applovin_ic_mediation_amazon_tam.png"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/applovin_ic_mediation_ogury_presage.png",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/b3d5fd8caadb009f93648ad90fc4680e/transformed/applovin-sdk-11.5.5/res/drawable/applovin_ic_mediation_ogury_presage.png"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/applovin_ic_mediation_mytarget.png",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/b3d5fd8caadb009f93648ad90fc4680e/transformed/applovin-sdk-11.5.5/res/drawable/applovin_ic_mediation_mytarget.png"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/btn_checkbox_unchecked_mtrl.xml",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/2c6f62d21dc441aa2a2c084eb539ac0d/transformed/appcompat-1.3.1/res/drawable/btn_checkbox_unchecked_mtrl.xml"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/notification_tile_bg.xml",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/f6908b4b144fe03fb43a865b8cc71333/transformed/core-1.6.0/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/navigation_empty_icon.xml",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/ecb44e9db50331d7f619fbb742715a36/transformed/material-1.4.0/res/drawable/navigation_empty_icon.xml"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/abc_btn_check_material.xml",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/2c6f62d21dc441aa2a2c084eb539ac0d/transformed/appcompat-1.3.1/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/selection_band_overlay.xml",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/627bb587cfc82d1230e464610197367a/transformed/recyclerview-selection-1.1.0/res/drawable/selection_band_overlay.xml"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/abc_star_half_black_48dp.xml",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/2c6f62d21dc441aa2a2c084eb539ac0d/transformed/appcompat-1.3.1/res/drawable/abc_star_half_black_48dp.xml"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/abc_item_background_holo_dark.xml",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/2c6f62d21dc441aa2a2c084eb539ac0d/transformed/appcompat-1.3.1/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable/applovin_ic_mediation_hyprmx.png",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/b3d5fd8caadb009f93648ad90fc4680e/transformed/applovin-sdk-11.5.5/res/drawable/applovin_ic_mediation_hyprmx.png"
+    }
+]

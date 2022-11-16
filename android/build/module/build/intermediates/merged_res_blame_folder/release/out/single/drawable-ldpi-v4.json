@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable-ldpi-v4/applovin_ic_disclosure_arrow.png",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/b3d5fd8caadb009f93648ad90fc4680e/transformed/applovin-sdk-11.5.5/res/drawable-ldpi-v4/applovin_ic_disclosure_arrow.png"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable-ldpi-v4/applovin_ic_check_mark_borderless.png",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/b3d5fd8caadb009f93648ad90fc4680e/transformed/applovin-sdk-11.5.5/res/drawable-ldpi-v4/applovin_ic_check_mark_borderless.png"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable-ldpi-v4/applovin_ic_x_mark.png",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/b3d5fd8caadb009f93648ad90fc4680e/transformed/applovin-sdk-11.5.5/res/drawable-ldpi-v4/applovin_ic_x_mark.png"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable-ldpi-v4/applovin_ic_warning.png",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/b3d5fd8caadb009f93648ad90fc4680e/transformed/applovin-sdk-11.5.5/res/drawable-ldpi-v4/applovin_ic_warning.png"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable-ldpi-v4/applovin_ic_check_mark_bordered.png",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/b3d5fd8caadb009f93648ad90fc4680e/transformed/applovin-sdk-11.5.5/res/drawable-ldpi-v4/applovin_ic_check_mark_bordered.png"
+    },
+    {
+        "merged": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/merged_res/release/drawable-ldpi-v4/applovin_ic_share.png",
+        "source": "/Users/douglas/.gradle/caches/transforms-3/b3d5fd8caadb009f93648ad90fc4680e/transformed/applovin-sdk-11.5.5/res/drawable-ldpi-v4/applovin_ic_share.png"
+    }
+]

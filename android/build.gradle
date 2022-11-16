@@ -1,0 +1,11 @@
+println "Running gradle version: $gradle.gradleVersion"
+
+repositories {
+    google()
+    mavenCentral()
+}
+
+dependencies {
+    implementation 'com.google.android.gms:play-services-ads-identifier:18.0.1'
+    implementation 'com.applovin:applovin-sdk:+'
+}

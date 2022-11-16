@@ -1,0 +1,12 @@
+Android NDK: WARNING:/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/src/main/jni/Android.mk:com.upflix.applovin: non-system libraries in linker flags: -lkroll-v8    
+Android NDK:     This is likely to result in incorrect builds. Try using LOCAL_STATIC_LIBRARIES    
+Android NDK:     or LOCAL_SHARED_LIBRARIES instead to list the library dependencies of the    
+Android NDK:     current module    
+[x86_64] Compile++      : com.upflix.applovin <= TiModuleBootstrap.cpp
+[x86_64] Compile++      : com.upflix.applovin <= com.upflix.applovin.AppLovinModule.cpp
+[x86_64] Compile++      : com.upflix.applovin <= com.upflix.applovin.MrecProxy.cpp
+[x86_64] Compile++      : com.upflix.applovin <= com.upflix.applovin.BannerProxy.cpp
+[x86_64] Compile++      : com.upflix.applovin <= com.upflix.applovin.InterstitialProxy.cpp
+[x86_64] Compile++      : com.upflix.applovin <= com.upflix.applovin.RewardedProxy.cpp
+[x86_64] Prebuilt       : libc++_shared.so <= <NDK>/sources/cxx-stl/llvm-libc++/libs/x86_64/
+[x86_64] SharedLibrary  : libcom.upflix.applovin.so

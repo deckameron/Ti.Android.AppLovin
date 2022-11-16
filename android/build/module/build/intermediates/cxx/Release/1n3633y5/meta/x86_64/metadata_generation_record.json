@@ -1,0 +1,184 @@
+[
+  {
+    "level_": 0,
+    "message_": "Start JSON generation. Platform version: 19 min SDK version: x86_64",
+    "file_": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/src/main/jni/Android.mk",
+    "tag_": "release|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -2112685271
+  },
+  {
+    "level_": 0,
+    "message_": "rebuilding JSON /Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/.cxx/Release/1n3633y5/x86_64/android_gradle_build.json due to:",
+    "file_": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/src/main/jni/Android.mk",
+    "tag_": "release|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 2030643434
+  },
+  {
+    "level_": 0,
+    "message_": "- expected json /Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/.cxx/Release/1n3633y5/x86_64/android_gradle_build.json file is not present, will remove stale json folder",
+    "file_": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/src/main/jni/Android.mk",
+    "tag_": "release|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 944200620
+  },
+  {
+    "level_": 0,
+    "message_": "- missing previous command file /Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/.cxx/Release/1n3633y5/x86_64/metadata_generation_command.txt, will remove stale json folder",
+    "file_": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/src/main/jni/Android.mk",
+    "tag_": "release|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 745010858
+  },
+  {
+    "level_": 0,
+    "message_": "- command changed from previous, will remove stale json folder",
+    "file_": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/src/main/jni/Android.mk",
+    "tag_": "release|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -666265289
+  },
+  {
+    "level_": 0,
+    "message_": "removing stale contents from \u0027/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/.cxx/Release/1n3633y5/x86_64\u0027",
+    "file_": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/src/main/jni/Android.mk",
+    "tag_": "release|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1840430841
+  },
+  {
+    "level_": 0,
+    "message_": "created folder \u0027/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/.cxx/Release/1n3633y5/x86_64\u0027",
+    "file_": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/src/main/jni/Android.mk",
+    "tag_": "release|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1343976595
+  },
+  {
+    "level_": 0,
+    "message_": "executing ndkBuild Executable : /Users/douglas/android-sdk-macosx/ndk/21.4.7075529/ndk-build\narguments : \nNDK_PROJECT_PATH\u003dnull\nAPP_BUILD_SCRIPT\u003d/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/src/main/jni/Android.mk\nAPP_ABI\u003dx86_64\nNDK_ALL_ABIS\u003dx86_64\nNDK_DEBUG\u003d0\nAPP_PLATFORM\u003dandroid-19\nNDK_OUT\u003d/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/cxx/Release/1n3633y5/obj\nNDK_LIBS_OUT\u003d/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/cxx/Release/1n3633y5/lib\nAPP_CPPFLAGS+\u003d-std\u003dc++14\nAPP_STL:\u003dc++_shared\n-j10\n--output-sync\u003dnone\nAPP_SHORT_COMMANDS\u003dfalse\nLOCAL_SHORT_COMMANDS\u003dfalse\n-B\n-n\njvmArgs : \n\n",
+    "file_": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/src/main/jni/Android.mk",
+    "tag_": "release|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 2131699919
+  },
+  {
+    "level_": 0,
+    "message_": "Executable : /Users/douglas/android-sdk-macosx/ndk/21.4.7075529/ndk-build\narguments : \nNDK_PROJECT_PATH\u003dnull\nAPP_BUILD_SCRIPT\u003d/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/src/main/jni/Android.mk\nAPP_ABI\u003dx86_64\nNDK_ALL_ABIS\u003dx86_64\nNDK_DEBUG\u003d0\nAPP_PLATFORM\u003dandroid-19\nNDK_OUT\u003d/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/cxx/Release/1n3633y5/obj\nNDK_LIBS_OUT\u003d/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/intermediates/cxx/Release/1n3633y5/lib\nAPP_CPPFLAGS+\u003d-std\u003dc++14\nAPP_STL:\u003dc++_shared\n-j10\n--output-sync\u003dnone\nAPP_SHORT_COMMANDS\u003dfalse\nLOCAL_SHORT_COMMANDS\u003dfalse\n-B\n-n\njvmArgs : \n\n",
+    "file_": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/src/main/jni/Android.mk",
+    "tag_": "release|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 261097756
+  },
+  {
+    "level_": 0,
+    "message_": "parse and convert ndk-build output to build configuration JSON",
+    "file_": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/src/main/jni/Android.mk",
+    "tag_": "release|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 2071218694
+  },
+  {
+    "level_": 0,
+    "message_": "done executing ndkBuild",
+    "file_": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/src/main/jni/Android.mk",
+    "tag_": "release|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -358902036
+  },
+  {
+    "level_": 0,
+    "message_": "write command file /Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/build/.cxx/Release/1n3633y5/x86_64/metadata_generation_command.txt",
+    "file_": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/src/main/jni/Android.mk",
+    "tag_": "release|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 835808244
+  },
+  {
+    "level_": 0,
+    "message_": "JSON generation completed without problems",
+    "file_": "/Users/douglas/Documents/Modules/Ti.Android.AppLovin/android/build/module/src/main/jni/Android.mk",
+    "tag_": "release|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 959461544
+  }
+]
