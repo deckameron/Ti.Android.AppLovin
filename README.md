@@ -138,7 +138,7 @@ You must ensure you have set the consent flag correctly. If you set the consent 
 California law may require you to display a “Do Not Sell or Share My Personal Information” link or provide other options to users located in the State of California. You must set a flag that indicates whether a California-based user has opted out of a sale or share of personal information for interest-based advertising.
 
 
-### `AppLovin.setIsAgeRestrictedUser()`
+### `AppLovin.setIsAgeRestrictedUser(false)`
 
 If you know that the user does not fall within an age-restricted category (i.e., age 16 or older, or as otherwise defined by applicable laws), you must set the age-restricted user flag to false.
 
