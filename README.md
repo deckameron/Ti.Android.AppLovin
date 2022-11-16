@@ -44,7 +44,7 @@ let banner = AppLovin.createBanner({
 	adUnitId: "edfo454ofidos",	//USE YOUR AD_UNIT ID HERE
 	adBackgroundColor: "#FFFFFF",
 	adHeight: 50,
-	// Standar View parameters
+	// Standard View parameters
 	bottom: 0
 });
 window.add(banner);
@@ -57,7 +57,7 @@ let mrec = AppLovin.createMrec({
 	// Specific
 	adUnitId: "edfo454oduiro",	//USE YOUR AD_UNIT ID HERE
 	adBackgroundColor: "#000000",
-	// Standar View parameters
+	// Standard View parameters
 	bottom: 0
 });
 window.add(mrec);
